@@ -1,0 +1,15 @@
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\bin\x86\Debug\LeapMotionApplication.exe
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\bin\x86\Debug\LeapMotionApplication.pdb
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\bin\x86\Debug\LeapCSharp.NET4.0.dll
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\bin\x86\Debug\LiteDB.dll
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.csprojAssemblyReference.cache
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.Properties.Resources.resources
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.csproj.GenerateResource.cache
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.csproj.CoreCompileInputs.cache
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.csproj.CopyComplete
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.exe
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.pdb
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.Forms.Frames.resources
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.Forms.MainForm.resources
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.Forms.FirstExperiment.resources
+C:\Users\fazil\Desktop\LeapMotionApplication\LeapMotionApplication\obj\x86\Debug\LeapMotionApplication.Forms.SecondExperiment.resources
